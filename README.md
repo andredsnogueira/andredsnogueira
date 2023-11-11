@@ -4,4 +4,4 @@
 - 👨‍💻 builder
 - 🌍 work remotely
 - 👨‍🎨 work as a frontend engineer
-- 📫 dm me on [twitter](https://twitter.com/andredsnogueira)
+- 📫 dm me on [X](https://x.com/andredsnogueira)
