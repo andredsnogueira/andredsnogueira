@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm André, a passionate Frontend Developer with a love for crafting delightful web experiences.
+I'm André, a passionate Full-stack Developer with a love for crafting delightful web and mobile experiences.
 
 ## About Me
 
-- 🚀 **Frontend Developer:** Bringing ideas to life through clean and efficient code.
+- 🚀 **Full-stack Developer:** Bringing ideas to life through clean and efficient code.
 - 👨‍🎨 **UI/UX Enthusiast:** Merging design and functionality to create seamless user interfaces.
 - ✨ **Craftsmanship:** Dedicated to crafting delightful web experiences.
 
