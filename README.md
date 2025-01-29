@@ -10,7 +10,7 @@ I'm André, a passionate Full-stack Developer with a love for crafting delightfu
 
 ## Tech Stack
 
-- 🧙🏻‍♂️ **Specializing in:** React, Flutter, and Laravel.
+- 🧙🏻‍♂️ **Specialized in:** React, Next.JS, Laravel and Flutter.
 - 💼 **Passion:** Merging design and functionality for user-centric applications.
 
 ## What I Do
@@ -23,5 +23,5 @@ As a code enthusiast, I thrive on:
 
 ## Let's Connect
 
-- 🐦 [TwitteX](https://x.com/andredsnogueira)
+- 🐦 [X](https://x.com/andredsnogueira)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andredsnogueira)
